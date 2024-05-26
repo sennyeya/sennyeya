@@ -1,7 +1,7 @@
 ### Hi! I'm Aramis 👋
 I'm a project area maintainer for [Backstage's](https://github.com/backstage/backstage) OpenAPI tooling. I'm interested in developer experience, developer tooling, OpenAPI and schema-first development.
 
-Previously at Amazon and Spotify, now looking for my next opportunity! Reach out to me on [LinkedIn](https://www.linkedin.com/in/aramis-sennyey/) if you'd like to chat.
+Currently at DoorDash working on their web platform, focusing on developer experience and platform offerings. Previously at Amazon and Spotify.
 
 Here's some cool things I've built recently,
 1. [Typed Express.js routers](https://github.com/backstage/backstage/pull/15667), using an OpenAPI 3.0 specification and some Typescript magic, it enforces routes, parameters, request body and return type.
